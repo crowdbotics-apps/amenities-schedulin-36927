@@ -32,6 +32,7 @@
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "@screens/order-complete": "file:./screens/order-complete/",
+    "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",
     "@screens/search-listing": "file:./screens/search-listing/",

@@ -1320,7 +1320,7 @@
 "@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
-"@screens/cart@file:./screens/cart/":
+"@screens/cart@file:./screens/cart":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
@@ -1336,6 +1336,9 @@
   version "1.0.0"
 
 "@screens/order-complete@file:./screens/order-complete":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary/":
   version "1.0.0"
 
 "@screens/photo-library@file:./screens/photo-library":

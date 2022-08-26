@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-complete](screens/order-complete)
 - [payments]()
 - [screen-store-cart](screens/cart)
+- [screen-order-summary](screens/order-summary)
 
 # Getting started: Frontend
 
