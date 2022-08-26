@@ -1326,10 +1326,13 @@
 "@screens/events-advanced@file:./screens/events-advanced":
   version "1.0.0"
 
-"@screens/image-editing@file:./screens/image-editing/":
+"@screens/image-editing@file:./screens/image-editing":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
+  version "1.0.0"
+
+"@screens/invite-friends@file:./screens/invite-friends/":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":
