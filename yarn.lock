@@ -1252,13 +1252,13 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
+"@screens/activity-feed@file:./screens/activity-feed/":
+  version "1.0.0"
+
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
 "@screens/add-review@file:./screens/add-review":
-  version "1.0.0"
-
-"@screens/add-review@file:./screens/add-review/":
   version "1.0.0"
 
 "@screens/appointment-listing@file:./screens/appointment-listing":
