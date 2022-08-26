@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-notifications-preference](screens/notifications-preference)
 - [privacy-policy]()
+- [screen-support-faq](screens/support-faq)
 
 # Getting started: Frontend
 
