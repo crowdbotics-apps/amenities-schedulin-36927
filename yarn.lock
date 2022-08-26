@@ -1273,9 +1273,6 @@
 "@screens/support-faq@file:./screens/support-faq":
   version "1.0.0"
 
-"@screens/support-faq@file:./screens/support-faq/":
-  version "1.0.0"
-
 "@screens/waiting-list-message@file:./screens/waiting-list-message":
   version "1.0.0"
 
