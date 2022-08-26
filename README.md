@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-waiting-list-message](screens/waiting-list-message)
 - [screen-review-list](screens/review-list)
 - [screen-invite-friends](screens/invite-friends)
+- [screen-add-payment-method](screens/add-payment-method)
 
 # Getting started: Frontend
 
