@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 - [screen-photo-library](screens/photo-library)
 - [screen-waiting-list-message](screens/waiting-list-message)
+- [screen-review-list](screens/review-list)
 
 # Getting started: Frontend
 

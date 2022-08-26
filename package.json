@@ -18,6 +18,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/photo-library": "file:./screens/photo-library/",
+    "@screens/review-list": "file:./screens/review-list/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
     "axios": "^0.21.1",
     "react": "17.0.1",
