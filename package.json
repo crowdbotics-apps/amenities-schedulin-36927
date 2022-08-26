@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "@modules/payments": "file:./modules/payments",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/user-profile": "file:./modules/user-profile/",
@@ -36,7 +37,9 @@
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/waiting-list": "file:./screens/waiting-list/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
+    "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
+    "babel-plugin-import-glob": "^2.0.0",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
     "react-native": "0.64.0",

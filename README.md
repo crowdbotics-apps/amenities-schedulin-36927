@@ -78,6 +78,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-waiting-list](screens/waiting-list)
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [screen-order-complete](screens/order-complete)
+- [payments]()
 
 # Getting started: Frontend
 
