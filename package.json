@@ -28,6 +28,7 @@
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/cart": "file:./screens/cart/",
     "@screens/events-advanced": "file:./screens/events-advanced/",
+    "@screens/image-editing": "file:./screens/image-editing/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",

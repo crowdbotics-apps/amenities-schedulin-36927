@@ -1323,7 +1323,10 @@
 "@screens/cart@file:./screens/cart":
   version "1.0.0"
 
-"@screens/events-advanced@file:./screens/events-advanced/":
+"@screens/events-advanced@file:./screens/events-advanced":
+  version "1.0.0"
+
+"@screens/image-editing@file:./screens/image-editing/":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
