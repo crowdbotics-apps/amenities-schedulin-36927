@@ -1252,6 +1252,9 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
+"@screens/activity-feed@file:./screens/activity-feed":
+  version "1.0.0"
+
 "@screens/activity-feed@file:./screens/activity-feed/":
   version "1.0.0"
 
