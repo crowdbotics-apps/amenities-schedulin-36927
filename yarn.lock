@@ -1267,7 +1267,7 @@
 "@screens/review-list@file:./screens/review-list":
   version "1.0.0"
 
-"@screens/search-listing@file:./screens/search-listing/":
+"@screens/search-listing@file:./screens/search-listing":
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":
