@@ -1311,9 +1311,6 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
-"@screens/add-review@file:./screens/add-review":
-  version "1.0.0"
-
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
@@ -1330,9 +1327,6 @@
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
-  version "1.0.0"
-
-"@screens/invite-friends@file:./screens/invite-friends/":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":

@@ -23,7 +23,6 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
-    "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/cart": "file:./screens/cart/",
