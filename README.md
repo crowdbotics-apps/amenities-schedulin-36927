@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
 - [screen-review-add](screens/add-review)
 - [screen-activity-feed](screens/activity-feed)
+- [screen-waiting-list](screens/waiting-list)
 
 # Getting started: Frontend
 
