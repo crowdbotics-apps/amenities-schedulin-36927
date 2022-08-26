@@ -1249,7 +1249,7 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
-"@screens/appointment-listing@file:./screens/appointment-listing/":
+"@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
@@ -1265,6 +1265,9 @@
   version "1.0.0"
 
 "@screens/review-list@file:./screens/review-list":
+  version "1.0.0"
+
+"@screens/search-listing@file:./screens/search-listing/":
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":
