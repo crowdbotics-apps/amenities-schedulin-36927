@@ -23,6 +23,7 @@
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/add-review": "file:./screens/add-review/",
+    "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
