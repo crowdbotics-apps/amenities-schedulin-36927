@@ -1279,13 +1279,13 @@
 "@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry":
   version "1.0.0"
 
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
 "@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
 "@screens/review-list@file:./screens/review-list":
-  version "1.0.0"
-
-"@screens/review-list@file:./screens/review-list/":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
