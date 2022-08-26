@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-add-payment-method](screens/add-payment-method)
 - [terms-and-conditions]()
 - [screen-notifications-preference](screens/notifications-preference)
+- [privacy-policy]()
 
 # Getting started: Frontend
 
