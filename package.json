@@ -25,6 +25,7 @@
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
+    "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",
     "@screens/search-listing": "file:./screens/search-listing/",

@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-listing](screens/appointment-listing)
 - [screen-search-listing](screens/search-listing)
 - [react-native-user-profile](modules/user-profile)
+- [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
 
 # Getting started: Frontend
 
