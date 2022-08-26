@@ -1236,7 +1236,10 @@
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
   version "1.0.0"
 
-"@screens/photo-library@file:./screens/photo-library/":
+"@screens/photo-library@file:./screens/photo-library":
+  version "1.0.0"
+
+"@screens/waiting-list-message@file:./screens/waiting-list-message/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
