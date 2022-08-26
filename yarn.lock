@@ -1258,9 +1258,6 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/notifications-preference@file:./screens/notifications-preference/":
-  version "1.0.0"
-
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
   version "1.0.0"
 
@@ -1274,6 +1271,9 @@
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":
+  version "1.0.0"
+
+"@screens/support-faq@file:./screens/support-faq/":
   version "1.0.0"
 
 "@screens/waiting-list-message@file:./screens/waiting-list-message":
