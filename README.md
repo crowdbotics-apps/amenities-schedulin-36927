@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-photo-library](screens/photo-library)
 - [screen-waiting-list-message](screens/waiting-list-message)
 - [screen-review-list](screens/review-list)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
