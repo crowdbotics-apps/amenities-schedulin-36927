@@ -1255,6 +1255,9 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
+"@screens/add-review@file:./screens/add-review/":
+  version "1.0.0"
+
 "@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
@@ -1267,7 +1270,7 @@
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
   version "1.0.0"
 
-"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry/":
+"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry":
   version "1.0.0"
 
 "@screens/photo-library@file:./screens/photo-library":
