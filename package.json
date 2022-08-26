@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
+    "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",

@@ -1244,6 +1244,9 @@
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
+"@screens/notifications-preference@file:./screens/notifications-preference/":
+  version "1.0.0"
+
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
   version "1.0.0"
 
