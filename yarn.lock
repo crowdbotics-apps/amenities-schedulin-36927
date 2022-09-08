@@ -1353,6 +1353,9 @@
 "@screens/search-listing@file:./screens/search-listing":
   version "1.0.0"
 
+"@screens/social-feed@file:./screens/social-feed/":
+  version "1.0.0"
+
 "@screens/support-faq@file:./screens/support-faq":
   version "1.0.0"
 

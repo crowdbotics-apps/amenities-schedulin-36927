@@ -37,6 +37,7 @@
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",
     "@screens/search-listing": "file:./screens/search-listing/",
+    "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/waiting-list": "file:./screens/waiting-list/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
